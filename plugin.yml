@@ -1,0 +1,5 @@
+name: LumiaAntiInvis
+description: Disable Invisibility potion.
+author: xFlakesID
+version: 1.3
+main: nl.LumiaAntiInvis.Main
